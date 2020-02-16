@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.eecs4700.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\atlluser\\Desktop\\EECS4700 Tristan\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "EECS4700 [Testing]"
+        }
+      }
+    }
+  ]
+}
